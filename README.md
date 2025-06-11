@@ -22,7 +22,7 @@ A web-based hotel booking application built using **Java Servlets**, **JSP**, an
 - Apache Tomcat (Web Server)
 
 #Folder Structure
-
+<pre>
 Hrs/
 ├── build/
 ├── src/
@@ -59,7 +59,7 @@ Hrs/
 │   ├── logout.jsp
 │   ├── register.jsp
 │   └── viewBookings.jsp
-
+</pre>
 
 ## ⚙️ Setup Instructions
 
